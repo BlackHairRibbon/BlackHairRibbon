@@ -18,4 +18,15 @@ I am the girl who makes the goofiest sounds in FL Studio and i guess i code now<
 ---
 [![](https://visitcount.itsvg.in/api?id=BlackHairRibbon&icon=7&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<img src="https://raw.githubusercontent.com/BlackHairRibbon/BlackHairRibbon/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackHairRibbon/BlackHairRibbon/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BlackHairRibbon/BlackHairRibbon/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BlackHairRibbon/BlackHairRibbon/output/pacman-contribution-graph.svg">
+</picture>
+
+###
